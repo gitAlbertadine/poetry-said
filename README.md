@@ -16,6 +16,11 @@ poetry add django
 #poetry remove -D pytest
 poetry show --tree
 poetry shell
+django-admin startproject bookr .
+python manage.py runserver
+python manage.py startapp reviews
+
+
 
 
 ```

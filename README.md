@@ -1,1 +1,4 @@
-# poetry-said
+# poetry
+```
+poetry self update
+```

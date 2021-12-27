@@ -1,5 +1,8 @@
 # poetry
 ```
+#ubuntu: export PATH='$PATH:/bin:/usr/bin:$HOME/.poetry/bin'
+#termux: export PATH="$HOME/.poetry/bin:$PATH"
+#source ...
 #poetry self update
 #poetry new package
 #poetry new project --name package

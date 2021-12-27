@@ -21,6 +21,7 @@ python manage.py runserver
 python manage.py startapp reviews
 mm
 m
+sqlite3 mydatabase.db
 
 
 

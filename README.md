@@ -19,6 +19,8 @@ poetry shell
 django-admin startproject bookr .
 python manage.py runserver
 python manage.py startapp reviews
+mm
+m
 
 
 

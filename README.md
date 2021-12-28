@@ -9,6 +9,7 @@
 #poetry new project --name package
 poetry new --src package
 cd package
+poetry install
 #-existed project
 #poetry init
 poetry add django
